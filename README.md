@@ -1,1 +1,1 @@
-# Amino-acid-pair-position-switching-change-translation-speed
+# Amino-acid-pairs-position-switching-change-translation-speed
